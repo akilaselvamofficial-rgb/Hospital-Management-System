@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220008
+# Name:AKILA S
+# Date:19-05-2026
 
 
 # AIM:
